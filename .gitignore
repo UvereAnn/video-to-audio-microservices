@@ -7,3 +7,6 @@ venv/
 # Kubernetes Secrets
 *secret.yaml
 manifests/**/*secret.yaml
+
+#Helm chats
+values.yaml
