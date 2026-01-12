@@ -3,3 +3,7 @@ __pycache__/
 .env
 venv/
 .DS_Store
+
+# Kubernetes Secrets
+*secret.yaml
+manifests/**/*secret.yaml
