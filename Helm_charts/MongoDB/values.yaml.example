@@ -1,0 +1,7 @@
+secret:
+  root_username: USERNAME_HERE
+  root_password: PASSWORD_HERE
+  username: USERNAME_HERE
+  password: PASSWORD_HERE
+  users_list: USER_LIST_HERE
+
